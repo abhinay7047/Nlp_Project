@@ -42,7 +42,7 @@ class DataBase:
 # else:
 #     print("Registration failed: Email already exists")
 
-# result = db.search("johndoe@example.com", "password123")
+# result = db.search("lucky@example.com", "password123")
 # if result == 1:
 #     print("Login successful!")
 # else:
